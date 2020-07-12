@@ -15,7 +15,8 @@ In brief, the purpose of this assessment was to analyze processed [Mutation Anno
 If you want to reproduce this analysis, check out the `requirements.txt` file. 
 
 Better yet, pull & run the `Docker Image` with the following command: 
-docker run --rm -it -p 9010:8888 yraghav97/tumor-exome-mutation-analysis:v1.1
+
+`docker run --rm -it -p 9010:8888 yraghav97/tumor-exome-mutation-analysis:v1.1`
 
 
 ## Contact Information
