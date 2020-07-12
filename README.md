@@ -1,7 +1,7 @@
 # Tumor Exome Mutation Analysis 
 
 ![exome_sequencing](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Exome_Sequencing_Workflow_1a.png/220px-Exome_Sequencing_Workflow_1a.png) 
-![tumor_image](https://swami.wustl.edu/wp-content/uploads/2015/07/cancers-cells.jpg)
+<img src=https://swami.wustl.edu/wp-content/uploads/2015/07/cancers-cells.jpg height=200 width=200> 
 
 
 ## Introduction 
